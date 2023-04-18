@@ -1,1 +1,1 @@
-ntc é o heavs
+Projeto para mostrar os TCCs da Etec Prof. Carmine Biagio Tundisi usando JSONs
