@@ -1,0 +1,52 @@
+aside{
+    width: 20vw;
+    height: 100vh;
+    background-color: #1B1D29;
+}
+
+.logo--container{
+    display: flex;
+}
+
+.logo--container img{
+    margin: 1rem;
+    margin-top: 2rem;
+    width: 69%;
+    margin-bottom: 3rem;
+}
+
+aside nav {
+    padding: .5rem;
+}
+
+a {
+   text-decoration: none;
+}
+
+aside nav ul {
+    list-style-type: none;
+}
+
+.tab--container{
+    display: flex;
+    width: 100%;
+    border-radius: .5rem;
+    margin-bottom: .5rem;
+    align-items: center;
+    padding: .7rem;
+    transition: .3s ease;
+}
+
+.tab--container:hover{
+    background-color: #F22C43;
+}
+
+.tab--container h3 {
+    color:white;
+    margin-left: 1rem;
+}
+
+.tab--container svg{
+    color: white;
+
+}

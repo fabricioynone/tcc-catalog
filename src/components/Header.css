@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    height: 6vh;
+    width: 100%;
+    justify-content: space-between;
+    padding: 2rem;
+
+}
+
+input{
+    width: 30vw;
+    border-radius: 30px;
+    height: 2rem;
+    border-style: none;
+    background-color: #2B3340;
+    color: white;
+    padding: .5rem;
+}
