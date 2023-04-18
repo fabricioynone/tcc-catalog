@@ -14,9 +14,9 @@
 }
 
 body{
-  background: linear-gradient(to bottom, #11141B 0%, #122123 100%)
+  background: linear-gradient(to bottom, #11141B 0%, #122123 100%);
+  overflow-x: hidden;
 }
-
 
 .App{
   display: flex;

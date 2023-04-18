@@ -14,7 +14,7 @@ const Navbar = () => {
                     <li>
                         <a href="">
                             <div className="tab--container">
-                                <FaBaby />
+                                <FaBaby style={{fontSize: 25}}/>
                                 <h3>Administração</h3>
                             </div>    
                         </a>
@@ -22,7 +22,7 @@ const Navbar = () => {
                     <li>
                         <a href="">
                             <div className="tab--container">
-                            <FaGitlab />
+                            <FaGitlab style={{fontSize: 35}}/>
                                 <h3>Desenvolvimento de Sistemas</h3>
                             </div>    
                         </a>
@@ -30,7 +30,7 @@ const Navbar = () => {
                     <li>
                         <a href="">
                             <div className="tab--container">
-                                <FaEarlybirds />
+                                <FaEarlybirds style={{fontSize: 25}}/>
                                 <h3>Marketing</h3>
                             </div>    
                         </a>
