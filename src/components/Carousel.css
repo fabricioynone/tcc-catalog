@@ -10,7 +10,13 @@
     border-radius: 30px;
     transform: scale(.9);
     position: relative;
+    transition: all .2s;
+    cursor: pointer;
  }
+
+.tcc--card:hover{
+    transform: scale(1);
+}
 
 .carousel--area{
     overflow-x: hidden;

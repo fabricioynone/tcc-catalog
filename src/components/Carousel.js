@@ -3,7 +3,7 @@ import Tcccard from './Tcccard';
 import { MdArrowForwardIos, MdArrowBackIos } from "react-icons/md";
 import { useState } from 'react';
 
-const Carousel = () => {
+const Carousel = ( { curso } ) => {
     const [scrollX, setScrollX] = useState(0);
 
     const handleClickLeft = () => {
@@ -13,11 +13,18 @@ const Carousel = () => {
         }
         setScrollX(x);
     }
-
     const handleClickRight = () => {
         let x = scrollX - 300;
         setScrollX(x);
     }
+
+    
+    fetch("./resources/documentos/" + curso ).then((resposta) => {
+        resposta.json().then(dados => {
+            console.log(dados);
+        })        
+    })
+
 
     return ( 
         <>

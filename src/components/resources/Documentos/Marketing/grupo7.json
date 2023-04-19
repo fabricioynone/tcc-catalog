@@ -1,0 +1,27 @@
+{
+"titulo": ["Gerenciamento do Lixo Eletrônico Etec"],
+"autores": [
+   {"nomeCompleto":"Carlos Bombadão","email":"xuaj@jsj.com"} ,
+   {"nomeCompleto":"Emily Campos", "email":"xuaj@jsj.com"} ,
+   {"nomeCompleto":"Henrique Koizumi", "email":"xuaj@jsj.com"} ,
+   {"nomeCompleto":"Raissa Falcão", "email":"xuaj@jsj.com"}, 
+   {"nomeCompleto":"Juju do Morro", "email":"Yan Prado"}
+],
+"orientador": [
+   {"nomeCompleto":"Sergio Montagner"}
+],
+"coorientador": [
+   {"nomeCompleto":"Karla Samire"}
+],
+"turma": "Marketing - Turma B - Grupo 0",
+"problema": "Como suprir a falta de bibliotecas físicas nas escolas?",
+"objetivo": "Desenvolver plataforma web para leitura de livros online",
+"justificativa": "A falta de bibliotecas físicas é cada vez maior no país, levando os estudantes a perder o interesse pela leitura aaaaaaaaaaaaaaaaaaaa",
+"metodologia": "Estudo / Planejamento / Execução / Entrega",
+"cronograma": "Estudo - fev/mar Planejamento - abr/mai Execução - jun/out Entrega - nov/dez",
+"hipotese":"Apresentar soluções tecnólicas para suprir a deficiência de disponibilidade de bibliotecas fisicas",
+"referencias": [
+  "MUNHOZ, Júlia. Instagram para Negócios. São Paulo: DVS Editora Ltda. 2020",
+  "MONTAGNER, Sergio. Bibliotecas Digitais. 2020"
+ ]
+}

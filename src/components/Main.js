@@ -1,7 +1,7 @@
 import Member from "./Member";
 import './Main.css'
 
-const Main = () => {
+const Main = ( { curso } ) => {
     return ( 
         <main>
             <div className="display--card">
